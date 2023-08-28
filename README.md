@@ -1,3 +1,5 @@
+# search packages on npmjs.org using react app
+
 #
 Due to some breaking changes in the recent release of React v18, the versions shown in the project setup will no longer work. We will need to install the latest versions of Redux, React Redux, and @types/react-redux:
 
